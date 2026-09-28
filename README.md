@@ -1,6 +1,6 @@
 # 🚀 The 100x Developer Boilerplate (Go + PostgreSQL + Docker)
 
-[![License: MIT](https://shields.io)](https://opensource.org)
+[![License: Apache 2.0](https://shields.io)](https://opensource.org)
 [![Go Version](https://shields.io)](https://golang.org)
 [![Docker](https://shields.io)](https://docker.com)
 [![Architecture: Clean](https://shields.io)](#)
